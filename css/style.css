@@ -96,6 +96,12 @@ p{
 .text-right{
   text-align: right;
 }
+.d-block{
+  display: block;
+}
+.text-left{
+  text-align: left;
+}
 .right{
     display:block !important;
     width:100%;
