@@ -2,6 +2,10 @@
   --purple: #402778;
   --yellow: #f8a01a;
 }
+@font-face {
+  font-family: Lustria;
+  src: url(../fonts/lustria-regular.ttf)
+}
 
 *,
 *::after,
@@ -20,6 +24,7 @@ h1{
 p{
     text-align: justify;
     text-justify: inter-word;
+    font-family: Lustria, sans-serif;
     line-height: 32px;
   
 }
